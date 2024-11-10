@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # 🚀 Web01 Community Project
 
 Chào mừng bạn đến với dự án cộng đồng Web01! Chúng tôi đang tìm kiếm những người đam mê lập trình web để cùng xây dựng một nền tảng học tập hấp dẫn.
@@ -61,3 +62,21 @@ TechVN là nền tảng cung cấp giải pháp công nghệ hiện đại, đư
 4. Create a new Pull Request `git push origin main`
 5. Join the community!
 
+=======
+🌟 **Tìm Đồng Đội Cùng Code Website Cộng Đồng!**
+Xin chào các bạn! Mình đang tìm kiếm những người đam mê lập trình web để cùng xây dựng một website học tập cho cộng đồng tại [Web01](https://github.com/ninhlailaptrinh/Web01.git).
+🎯 **Chúng ta sẽ:**
+- Học hỏi và chia sẻ kiến thức lập trình
+- Thực hành HTML/CSS và các công nghệ web
+- Xây dựng portfolio thực tế
+- Làm việc với Git/GitHub
+💻 **Tech Stack:**
+- HTML/CSS/JS (đang phát triển)
+- Các công nghệ khác sẽ được thêm vào . . . 
+🤝 **Bạn chỉ cần:**
+- Đam mê học hỏi
+- Sẵn sàng chia sẻ
+- Có thời gian commit code
+Tham gia ngay: Fork repo và gửi Pull Request đầu tiên của bạn! 
+#OpenSource #WebDevelopment #CommunityLearning
+>>>>>>> 6daa00c2fc04053bbfd45128fb76c86f35981531
